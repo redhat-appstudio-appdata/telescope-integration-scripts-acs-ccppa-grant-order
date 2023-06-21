@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/telescope-integration-scripts-acs/telescope-integration-scripts-acs-efxs@sha256:d90b8121ecae420215f6fa33353bbdb1a9c253b2f30c9990f495102370b9261b
+      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/telescope-integration-scripts-acs/telescope-integration-scripts-acs-efxs@sha256:aaa0853f721a9397c3a90f871ea3017e7e0ffa6cc9b69053efdf74b6023fafa9
         name: container-image
         resources: {}
 status: {}
