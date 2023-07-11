@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: telescope-integration-scripts-acs-efxs
     app.kubernetes.io/part-of: telescope-integration-scripts-acs
-  name: telescope-integration-scrahde
+  name: telescope-integration-scrkafk
 spec:
   port:
     targetPort: 8080
