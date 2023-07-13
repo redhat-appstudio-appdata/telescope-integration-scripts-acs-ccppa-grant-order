@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: telescope-integration-scripts-acs-efxs
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/telescope-integration-scripts-acs/telescope-integration-scripts-acs-efxs@sha256:57b4b6f79b9b68dd4635ceb7dfb2f28498017bb9fb45b627c6eeef9ba269dc47
+      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/telescope-integration-scripts-acs/telescope-integration-scripts-acs-efxs@sha256:0ea0946a43d68469fd10c9003257d8101d81caa77df95b8f0a13702335cf0376
         imagePullPolicy: Always
         name: container-image
         ports:
